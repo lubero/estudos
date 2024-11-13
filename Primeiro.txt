@@ -2,6 +2,7 @@ UM
 Dois
 Tres
 MASTER
+COLABORADOR
 Novo paragrago
 OVO
 Mais um
